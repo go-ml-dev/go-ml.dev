@@ -1,0 +1,6 @@
+<head>
+<meta 
+    name="go-import"
+    content="go-ml.dev/pkg/v2/zlog git https://github.com/go-ml-dev/zlog-v2"
+>
+</head>
