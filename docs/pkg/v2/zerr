@@ -1,0 +1,6 @@
+<head>
+<meta 
+    name="go-import"
+    content="go-ml.dev/pkg/v2/zerr git https://github.com/go-ml-dev/zerr-v2"
+>
+</head>
